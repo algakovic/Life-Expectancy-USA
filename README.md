@@ -10,7 +10,7 @@
   3.2 Overview of target (Life expectancy)  
   3.3 Split training and test data
 4. Feature Selection (Part 1): Evaluate predictors  
-  4.1 Baseline model : calculate k-fold cv with all predictors
+  4.1 Baseline model : calculate k-fold cv with all predictors  
   4.2 Evaluate predictors (Step 1) : Correlation of predictors vs. target (Life expectancy)  
   4.3 Evaluate predictors (Step 2) : Multicollinearity between all predictors  
   4.4 Model 1 : calculate k-fold cv using top predictors  
