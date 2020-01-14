@@ -24,7 +24,7 @@
 6. Final Model  
   6.1 Prepare final training and test data  
   6.2 Run final model with training and test data  
-  6.3 6.3 Fine-tune with regularization techniques using Ridge and Lasso  
+  6.3 Fine-tune with regularization techniques using Ridge and Lasso  
 7. Conclusion
   
   
