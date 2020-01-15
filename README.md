@@ -28,11 +28,13 @@
 
 ## Key findings
 
+The first baseline model using all available predictors in the dataset gives a very high accuracy, but similar results would not be achieved in production due to overfitting of sample data. We employed several techniques to reduce the predictors based on the principles of correlation, multicollinearity, interaction between predictors, transforming predictors into polynomial terms, and regularization techniques using Ridge and Lasso.
+
 Our final model generates an r-squared value of 67% for training data. R-squared value is defined as the proportion of the variance (difference between actual observed data and modelized output) of life expectancy that can be explained by the model's predictor variables.
 
 For test data, we obtained an R-squared value of 65%, which suggests that our model does not fall into overfitting trap. In other words, the model is able adapt to unknown data and generates the same level of accuracy as during the development stage.
 
-Our final model gives out 
+Here are the strongest contributing factors to predict life expectancy value in our model. The figures in parenthesis denote the model's coefficient, which measures the relative contribution of each predictor to the model's output.
 1. [1.08] Teen births
 2. [0.86] Poor or fair heath
 3. [0.74] Adult smoking
