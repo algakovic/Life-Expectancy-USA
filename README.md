@@ -39,14 +39,13 @@ For test data, we obtained an R-squared value of 65%, which suggests that our mo
 
 Here are the strongest contributing factors to predict life expectancy value in our model. The figures in parenthesis denote the model's coefficient, which measures the relative contribution of each predictor to the model's output.
 1. [1.08] Teen births
-2. [0.86] Poor or fair heath
-3. [0.74] Adult smoking
-4. [0.56] Food insecurity
-5. [0.55] Poor mental health days
-6. [0.29] Diabetes prevalence
-7. [0.25] Physical inactivity
-8. [0.17] Median household income
-9. [0.13] Excessive drinking
+2. [0.74] Adult smoking
+3. [0.56] Food insecurity
+4. [0.55] Poor mental health days
+5. [0.29] Diabetes prevalence
+6. [0.25] Physical inactivity
+7. [0.17] Median household income
+8. [0.13] Excessive drinking
 
 ## Conclusions
 - There is a trade-off that needs to be taken between the model’s accuracy and ability to predict using unseen data input.
