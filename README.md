@@ -48,8 +48,8 @@ Here are the strongest contributing factors to predict life expectancy value in 
 8. [0.13] Excessive drinking
 
 ## Conclusions
-- There is a trade-off that needs to be taken between the model’s accuracy and ability to predict using unseen data input.
-- The accuracy of our model remains fairly unchanged when applied to new data set. We can conclude that it is a reliable model although more refinement can be done to improve its accuracy further.
 - Teen births, smoking and food insecurity are identified as top contributors to lower life expectancy.
+- There is a trade-off that we needed to take between the model’s accuracy and the ability to predict using unseen data input.
+- The accuracy of our model remains fairly unchanged when applied to new data set. We can conclude that it is a reliable model although more refinement can be done to improve its accuracy further.
 
 
