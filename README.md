@@ -37,7 +37,7 @@ Our final model generates an r-squared value of 67% for training data. R-squared
 
 For test data, we obtained an R-squared value of 65%, which suggests that our model does not fall into overfitting trap. In other words, the model is able adapt to unknown data and generates the same level of accuracy as during the development stage.
 
-Here are the strongest contributing factors to predict life expectancy value in our model. The figures in parenthesis denote the model's coefficient, which measures the relative contribution of each predictor to the model's output.
+Here are the strongest contributing factors to predict life expectancy value in our model. The figures in parenthesis denote the model's coefficient, which measures the relative weight of each predictor to the model's output.
 1. [1.08] Teen births
 2. [0.74] Adult smoking
 3. [0.56] Food insecurity
