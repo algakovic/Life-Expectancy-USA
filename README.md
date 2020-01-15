@@ -1,6 +1,9 @@
 # Life Expectancy in the US
 
 ## Executive Summary
+We are taking the position of a consultancy company hired by the government to study the relationship between life expectancy in the US versus various factors related to health and lifestyle. The study's objective is to support the government in formulate healthcare policy based on the life expectancy model that we build.
+
+Latest data indicates that there are large differences in life expectancy (over 20 years) between some counties: our model will be particularly useful in addressing healthcare issues in vulnerable counties to bring them at par to the rest of the country.
 
 ## Methodology
 1. Data Import
@@ -45,6 +48,9 @@ Here are the strongest contributing factors to predict life expectancy value in 
 8. [0.17] Median household income
 9. [0.13] Excessive drinking
 
-## Conclusion
+## Conclusions
+- There is a trade-off that needs to be taken between the model’s accuracy and ability to predict using unseen data input.
+- The accuracy of our model remains fairly unchanged when applied to new data set. We can conclude that it is a reliable model although more refinement can be done to improve its accuracy further.
+- Teen births, smoking and food insecurity are identified as top contributors to lower life expectancy.
 
 
