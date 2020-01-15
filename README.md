@@ -1,5 +1,7 @@
 # Life Expectancy in the US
 
+<a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing" target=new>Link to Google Slides presentation</a>
+
 ## Executive Summary
 We are taking the position of a consultancy company hired by the government to study the relationship between life expectancy in the US versus various factors related to health and lifestyle. The study's objective is to support the government in formulate healthcare policy based on the life expectancy model that we build.
 
