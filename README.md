@@ -6,10 +6,10 @@ We are taking the position of a consultancy company hired by the government to s
 Latest data indicates that there are large differences in life expectancy (over 20 years) between some counties: our model will be particularly useful in addressing healthcare issues in vulnerable counties to bring them at par to the rest of the country.
 
 ## Key files
-1. <a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing">click link</a> - Presentation in Google Slides format
-2. Life_Expectancy_USA.pdf - Presentation in PDF format
-3. Life_Expectancy_USA.ipynb - Jupyter notebook file with Python codes + commentaries
-4. analytic_data2019.csv - Raw data source file in CSV format
+1. <a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing">Link here</a> : Presentation in Google Slides format
+2. Life_Expectancy_USA.pdf : Presentation in PDF format
+3. Life_Expectancy_USA.ipynb : Jupyter notebook file with Python codes + commentaries
+4. analytic_data2019.csv : Raw data source file in CSV format
 
 ## Methodology
 1. **Data Import**
