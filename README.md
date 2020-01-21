@@ -1,11 +1,15 @@
 # Life Expectancy in the US
 
-<a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing">Link to Google Slides presentation</a>
-
 ## Executive Summary
 We are taking the position of a consultancy company hired by the government to study the relationship between life expectancy in the US versus various factors related to health and lifestyle. The study's objective is to support the government in formulate healthcare policy based on the life expectancy model that we build.
 
 Latest data indicates that there are large differences in life expectancy (over 20 years) between some counties: our model will be particularly useful in addressing healthcare issues in vulnerable counties to bring them at par to the rest of the country.
+
+## Key files
+1. <a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing">click link</a> - Presentation in Google Slides format
+2. Life_Expectancy_USA.pdf - Presentation in PDF format
+3. Life_Expectancy_USA.ipynb - Jupyter notebook file with Python codes + commentaries
+4. analytic_data2019.csv - Raw data source file in CSV format
 
 ## Methodology
 1. **Data Import**
@@ -33,8 +37,7 @@ Latest data indicates that there are large differences in life expectancy (over 
   5.4 Evaluate linear regression model assumptions via residual analysis  
 6. **Final Model**  
   6.1 Prepare final training and test data  
-  6.2 Final model : run with training and test data  
-7. **Conclusion**
+  6.2 Final model : run with training and test data
 
 ## Key findings
 
