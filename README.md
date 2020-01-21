@@ -30,10 +30,10 @@ Latest data indicates that there are large differences in life expectancy (over 
   5.1 Model 2 : use Top predictors + interactions + polynomial terms  
   5.2 Determine strongest predictor terms (based on correlation)  
   5.3 Determine strongest predictor terms (based on standardized coefficient)  
+  5.4 Evaluate linear regression model assumptions via residual analysis  
 6. **Final Model**  
   6.1 Prepare final training and test data  
   6.2 Final model : run with training and test data  
-  6.3 Fine-tune with regularization techniques using Ridge and Lasso  
 7. **Conclusion**
 
 ## Key findings
