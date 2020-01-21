@@ -55,11 +55,18 @@ Here are the strongest contributing factors to predict life expectancy value in 
 5. [0.29] Median household income
 6. [0.26] Mental health providers
 7. [0.25] Physical inactivity
-8. [0.25] Mammography_screening
+8. [0.25] Mammography screening
 
 ## Conclusions
-- Teen births, smoking and food insecurity are identified as top contributors to lower life expectancy.
-- There is a trade-off that we needed to take between the model’s accuracy and the ability to predict using unseen data input.
-- The accuracy of our model remains fairly unchanged when applied to new data set. We can conclude that it is a reliable model although more refinement can be done to improve its accuracy further.
+From the study and models conducted on the impact of various health and lifestyle factors to life expectancy in the US, we came up with following key conclusions:
+- **Teen births, smoking** and **diabetes prevalence** are identified as top contributors to lower life expectancy.
+- There is a **trade-off** that we needed to take between the model’s accuracy and the ability to predict using unseen data input.
+- The **accuracy** of our model remains fairly unchanged when applied to new data set. We can conclude that it is a **reliable model** although more refinement can be done to improve its accuracy further.
+
+## Recommendations
+Here are the top 3 action plans that we propose to US federal and state agencies to improve life expectancy and to reduce this inequality between states and counties:
+- **Sex education in school**: improvement in the quality of sex education curriculum in schools to be prioritized in order to reduce teen pregnancy, which came out as top factor in lowering life expectancy.
+- **Food stamps programme**: food stamps programme to be extended to other vulnerable segments of the population to combat food insecurities via affordable access to food, and to combat diabetes via healthier food options.
+- **Southern states** are in need the most: states in the south of the US, particularly Mississippi, Alabama and Louisiana are the key areas of focus where life expectancy is the lowest in order to bring the level in par with other parts of the country.
 
 
