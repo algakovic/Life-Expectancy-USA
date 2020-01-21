@@ -9,7 +9,8 @@ Latest data indicates that there are large differences in life expectancy (over 
 1. <a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing">Link here</a> : Presentation in Google Slides format
 2. Life_Expectancy_USA.pdf : Presentation in PDF format
 3. Life_Expectancy_USA.ipynb : Jupyter notebook file with Python codes + commentaries
-4. analytic_data2019.csv : Raw data source file in CSV format
+4. Life_analysis.py : file containing local Python functions
+5. analytic_data2019.csv : Raw data source file in CSV format
 
 ## Methodology
 1. **Data Import**
