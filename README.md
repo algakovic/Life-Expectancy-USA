@@ -26,7 +26,7 @@ Latest data indicates that there are large differences in life expectancy (over 
   4.2 Baseline model : investigate regularization using Lasso  
   4.3 Evaluate predictors (Step 1) : P-value of baseline predictors vs. target  
   4.4 Evaluate predictors (Step 2) : Correlation of predictors vs. target  
-  4.5 Evaluate predictors (Step 3) : Multicollinearity between all predictors  
+  4.5 Evaluate predictors (Step 3) : Multicollinearity between predictors  
   4.6 Model 1 : using Top predictors  
   4.7 Evaluate predictors (Step 4) : Interaction between top predictors  
   4.8 Evaluate predictors (Step 5): Polynomial terms  
