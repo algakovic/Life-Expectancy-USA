@@ -26,7 +26,7 @@ Latest data indicates that there are large differences in life expectancy (over 
   4.2 Baseline model : investigate regularization using Lasso  
   4.3 Evaluate predictors (Step 1) : P-value of baseline predictors vs. target  
   4.4 Evaluate predictors (Step 2) : Correlation of predictors vs. target  
-  4.5 Evaluate predictors (Step 3) : Multicollinearity between all predictors  
+  4.5 Evaluate predictors (Step 3) : Multicollinearity between predictors  
   4.6 Model 1 : using Top predictors  
   4.7 Evaluate predictors (Step 4) : Interaction between top predictors  
   4.8 Evaluate predictors (Step 5): Polynomial terms  
@@ -44,9 +44,9 @@ Latest data indicates that there are large differences in life expectancy (over 
 
 The first baseline model using all available predictors in the dataset gives a very high accuracy, but similar results would not be achieved in production due to overfitting of sample data. We employed several techniques to reduce the predictors based on the principles of correlation, multicollinearity, interaction between predictors, transforming predictors into polynomial terms, and regularization techniques using Ridge and Lasso.
 
-Our final model generates an r-squared value of 67% for training data. R-squared value is defined as the proportion of the variance (difference between actual observed data and modelized output) of life expectancy that can be explained by the model's predictor variables.
+Our final model generates an r-squared value of 71% for training data. R-squared value is defined as the proportion of the variance (difference between actual observed data and modelized output) of life expectancy that can be explained by the model's predictor variables.
 
-For test data, we obtained an R-squared value of 65%, which suggests that our model does not fall into overfitting trap. In other words, the model is able adapt to unknown data and generates the same level of accuracy as during the development stage.
+For test data, we obtained an R-squared value of 66%, which suggests that our model does not fall into overfitting trap. In other words, the model is able adapt to unknown data and generates the same level of accuracy as during the development stage.
 
 Here are the strongest contributing factors to predict life expectancy value in our model. The figures in parenthesis denote the model's absolute coefficient, which measures the relative weight of each predictor to the model's output.
 1. [0.58] Teen births
