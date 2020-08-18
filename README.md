@@ -1,14 +1,14 @@
 # Life Expectancy in the US
 
 ## Executive Summary
-We are taking the position of a consultancy company hired by the government to study the relationship between life expectancy in the US versus various factors related to health and lifestyle. The study's objective is to support the government in formulate healthcare policy based on the life expectancy model that we build.
+We are taking the position of a consultancy company hired by the government to study the relationship between life expectancy in the US versus various factors related to health and lifestyle. The study's objective is to support the government in formulating a healthcare policy based on the life expectancy model that we build.
 
-Latest data indicates that there are large differences in life expectancy (over 20 years) between some counties: our model will be particularly useful in addressing healthcare issues in vulnerable counties to bring them at par to the rest of the country.
+Latest data indicates that there are large differences in life expectancy (over 20 years) between some counties: our model will be particularly useful in addressing healthcare issues in vulnerable counties to bring them at par with the rest of the country.
 
 ## Key files
 1. <a href="https://docs.google.com/presentation/d/1lvWhw1TjPNJF9uzwCESKHKAFMNPAXIG8evZ8uMbkQ2M/edit?usp=sharing">Link here</a> : Presentation in Google Slides format
 2. Life_Expectancy_USA.pdf : Presentation in PDF format
-3. Life_Expectancy_USA.ipynb : Jupyter notebook file with Python codes + commentaries
+3. Life_Expectancy_USA.ipynb : Jupyter notebook file with Python code + commentaries
 4. Life_Analysis.py : local Python functions source file for Jupyter notebook
 5. analytic_data2019.csv : Raw data source file in CSV format
 
